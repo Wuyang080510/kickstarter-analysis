@@ -26,7 +26,7 @@ Louise wants to start a crowdfunding campaign for her upcoming play Fever. She h
 ![Musical Campaign Performance in Great Britain](https://user-images.githubusercontent.com/106395288/170766772-88727bf9-5ab9-482b-9b22-96b6e468ddb3.png)
 
 ## Key Takeaways
-- Play campaigns has a high successful rate in the U.S. 
+- Play campaigns have high successful rate in the U.S. 
 - The best months for launching a play campaign would be May and June. 
 - More data is needed to find out the factors that lead to campaign failure except for the high fundraising goal.
 - As the musical campaign’s performance in Great Britain, Louise probably should set her campaign goal at £2,000.
